@@ -13,5 +13,5 @@
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiffyMuffinz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiffyMuffinz&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=WhiffyMuffinz&show_icons=true&theme=github_dark">
