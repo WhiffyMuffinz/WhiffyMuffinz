@@ -4,7 +4,7 @@
 
 #### I am an Undergraduate Student of Computer Science at Purdue University
 
-- Coding for nearly two years
+- Coding for just over two years
 - Dabbling in Rust
 - Wanting to Learn Web Development
 - Experienced with python
