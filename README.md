@@ -2,11 +2,10 @@
 
 ### Hi there, my name is Daniel
 
-#### I am an Undergraduate Student of Computer Science at Purdue University
+#### I am an Undergraduate Student of Computer Science at Purdue 
 
-- Coding for just over two years
 - Dabbling in Rust
-- Wanting to Learn Web Development
+- Learning Kubernetes
 - Experienced with python
 
 #
